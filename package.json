@@ -34,11 +34,14 @@
   "homepage": "https://github.com/balthazar/react-native-zeroconf",
   "license": "MIT",
   "dependencies": {
-    "events": "^3.0.0"
+    "events": "^3.0.0",
+    "react-native": "^0.60.6",
+    "react-native-windows": "^0.60.0-vnext.133"
   },
   "peerDependencies": {
     "react": "^16.10.2",
-    "react-native": "^0.60.2"
+    "react-native": "^0.60.6",
+    "react-native-windows": "^0.60.0-vnext.133"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
