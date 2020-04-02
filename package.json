@@ -11,12 +11,6 @@
     "type": "git",
     "url": "git://github.com/Apercu/react-native-zeroconf.git"
   },
-  "files": [
-    "dist",
-    "android",
-    "ios",
-    "react-native-zeroconf.podspec"
-  ],
   "keywords": [
     "react-component",
     "react-native",
